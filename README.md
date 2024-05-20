@@ -22,9 +22,9 @@ O trabalho desenvolvido, consiste em apresentar uma plataforma de uma instituiç
 
 ## Caso de Uso
 Relacionamento Aluno, Professor e Fornecedor. 
-<img src="/assets/images/diagrama_de_caso_de_uso.png"
+- <img src="/assets/images/diagrama_de_caso_de_uso.png"/>>
 
 ## Diagrama de Classe
 Diagrama de classe de gestão da plataforma EAD.
 
-<img src="/assets/images/diagrama_de_classe.png" 
+- <img src="/assets/images/diagrama_de_classe.png"/>>
